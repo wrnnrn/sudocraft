@@ -5,7 +5,4 @@ The recommended distribution is ArchCraft: https://archcraft.io/ (This tool is f
 ### Applications
 **Sublime text**: Code editor  
 **Nvim**: Terminal code editor  
-
-### Configuration of files
-**Nitrogen**: Background  
-**Icons**: Qogirr ($USER/.icons/default/index.theme)  
+**PIP**: Python ptackage manager 
